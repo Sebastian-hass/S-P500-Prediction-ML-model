@@ -6,7 +6,7 @@ Este proyecto utiliza un modelo de Machine Learning (XGBoost) para predecir la d
 Además del análisis en el Jupyter Notebook, se ha desarrollado una **aplicación web interactiva con Streamlit** que permite visualizar la predicción más reciente del modelo.
 
 
-*(Aquí puedes añadir una captura de pantalla de tu app una vez esté funcionando)*
+<img width="1920" height="1440" alt="app_prediccionS P500_ML" src="https://github.com/user-attachments/assets/79353e42-10be-40e8-a4a3-8d7199b67782" />
 
 ## 🚀 Progreso del Modelo
 El proyecto siguió un proceso iterativo de mejora, añadiendo características y probando diferentes algoritmos.
